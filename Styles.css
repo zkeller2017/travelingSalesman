@@ -1,0 +1,34 @@
+body {
+	background-color:#FFF;
+}
+
+
+#button2 {
+	background-color:#77F;
+	width:150px;
+	height:30px;
+}
+
+.listElement {
+	background-color:#77F;
+	width:100px;
+	border:1px solid #22A;
+}
+
+#canvas {
+	width = 600px;
+	height = 400px;
+	background-color: #DDD;
+}
+
+#canvas2 {
+	width = 600px;
+	height = 400px;
+	background-color: #DDD;
+}
+
+#button3 {
+	background-color:#77F;
+	width:100px;
+	height:30px;
+}
